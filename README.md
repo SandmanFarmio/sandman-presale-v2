@@ -21,8 +21,8 @@ Polygon Dreamed Yield Farming  [https://app.sandman.farm](https://app.sandman.fa
 
 |Contract     | PolygonScan Address       |
 |-------------|---------------------------|
-|Morpheus Dream|To Be Announce             |
-|Morpheus Token   |To Be Announce             |
+|Morpheus Dream|    0x1bc0f0A2707F713FF6Eb6Bbdc2EE55B6b3705832        |
+|Morpheus Token   |0x0D30a539F0597F01cA34356515318a4Fb6Ffe7CB |
 
 
 HAPPY FARMING & Dream a Little Dream of SandMan Farm.
